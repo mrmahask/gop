@@ -1,0 +1,4 @@
+Flask
+selenium
+requests
+gunicorn  # Thêm gunicorn để chạy ứng dụng
